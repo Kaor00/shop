@@ -1,4 +1,4 @@
 # shop
 online market by PERN
 
-in both dirrectorues we must make a command "npm i"
+in both dirrectorшes we must make a command "npm i"
